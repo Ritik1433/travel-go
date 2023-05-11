@@ -4,4 +4,4 @@
 <a href="https://ritik1433.github.io/travel-go/" target="_blank"><strong>➥ Live Demo</strong></a>
 </div> <br/><br/>
 <b>Screenshots:</b> <br/><br/>
-<img src="https://ritik1433.github.io/travel-go/blob/main/readme%20images/readme-image.jpg"></img>
+<img src="https://raw.githubusercontent.com/Ritik1433/travel-go/master/readme%20images/readme-image.jpg"></img>
